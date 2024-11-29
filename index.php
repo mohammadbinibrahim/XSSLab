@@ -26,7 +26,7 @@
 
     foreach($blocked as $block){
         if (strpos(strtolower($result), $block) !== false){
-            echo "<p class='result'>That's not allowed!</p>";
+            echo "<p class='result'>ممنوع!</p>";
             $cond = true;
             break;
         }

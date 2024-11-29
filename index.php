@@ -12,7 +12,7 @@
         <form action='index.php' method='GET'>
             <input type='text' id='inputfield' name='searchedperson'>
             <br>
-            <input type='submit' id='submitbutton' value='Search!'>
+            <input type='submit' id='submitbutton' value='!إكتب'>
         </form>
         <br>
         <br>
